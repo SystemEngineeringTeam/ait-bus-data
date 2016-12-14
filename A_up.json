@@ -1,0 +1,204 @@
+{
+	"A_up":[
+		{
+			"time" : "08:00:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:05:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:10:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:15:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:20:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:25:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:30:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:35:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:40:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:45:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "08:50:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:55:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:05:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:10:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "09:20:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:30:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:35:00",
+			"type" : "round"
+		},
+		{
+			"time" : "09:40:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:50:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "09:55:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:00:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "10:10:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "10:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:20:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "10:30:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "10:35:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:40:00",
+			"type" : "rotary"
+		},
+		{
+			"time" : "10:50:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:55:00",
+			"type" : "round"
+		},
+		{
+			"time" : "11:00:00",
+			"type" : "round"
+		},
+		{
+			"time" : "11:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "11:25:00",
+			"type" : "round"
+		},
+		{
+			"time" : "12:00:00",
+			"type" : "round"
+		},
+		{
+			"time" : "12:20:00",
+			"type" : "round"
+		},
+		{
+			"time" : "12:40:00",
+			"type" : "round"
+		},
+		{
+			"time" : "13:05:00",
+			"type" : "round"
+		},
+		{
+			"time" : "13:25:00",
+			"type" : "round"
+		},
+		{
+			"time" : "13:50:00",
+			"type" : "round"
+		},
+		{
+			"time" : "14:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "14:30:00",
+			"type" : "round"
+		},
+		{
+			"time" : "15:00:00",
+			"type" : "round"
+		},
+		{
+			"time" : "16:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "16:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "16:40:00",
+			"type" : "round"
+		},
+		{
+			"time" : "17:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "18:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "18:40:00",
+			"type" : "round"
+		},
+		{
+			"time" : "19:00:00",
+			"type" : "round"
+		},
+		{
+			"time" : "20:15:00",
+			"type" : "round"
+		}
+	]
+}

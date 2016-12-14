@@ -1,0 +1,80 @@
+{
+	"C_up":[
+		{
+			"time" : "08:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:30:00",
+			"type" : "round"
+		},
+		{
+			"time" : "08:55:00",
+			"type" : "round"
+		},
+		{
+			"time" : "09:20:00",
+			"type" : "round"
+		},
+		{
+			"time" : "09:45:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:20:00",
+			"type" : "round"
+		},
+		{
+			"time" : "10:55:00",
+			"type" : "round"
+		},
+		{
+			"time" : "11:45:00",
+			"type" : "round"
+		},
+		{
+			"time" : "12:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "13:20:00",
+			"type" : "round"
+		},
+		{
+			"time" : "14:30:00",
+			"type" : "round"
+		},
+		{
+			"time" : "15:05:00",
+			"type" : "round"
+		},
+		{
+			"time" : "15:35:00",
+			"type" : "round"
+		},
+		{
+			"time" : "16:05:00",
+			"type" : "round"
+		},
+		{
+			"time" : "16:40:00",
+			"type" : "round"
+		},
+		{
+			"time" : "17:10:00",
+			"type" : "round"
+		},
+		{
+			"time" : "18:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "19:15:00",
+			"type" : "round"
+		},
+		{
+			"time" : "20:15:00",
+			"type" : "round"
+		}
+	]
+}
